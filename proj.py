@@ -3,14 +3,21 @@ import tkinter
 
 def start():
     print('Введите ваше ФИО:',student = input())
-    
+    print('Введите ваш класс:',class = input())
 
-    
+def trMod():
 
+def ktMod():
 
+def sound():
 
+def imd():
 
+def txt():
 
+def dec():
+
+def ans():
 
 
 
