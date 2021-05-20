@@ -1,4 +1,3 @@
-import time
 import random
 
 def toFixed(numObj, digits=0):
